@@ -53,6 +53,13 @@ This approach significantly improves accuracy compared to using raw pixels, espe
 
 ---
 
+## Result
+
+<img width="461" height="617" alt="image" src="https://github.com/user-attachments/assets/2d3cb9e7-8c02-4eec-9a8f-7e9b5877fdee" />
+
+
+---
+
 ## 📂 Files
 
 - `task3_vgg16_svm_cats_dogs.ipynb` — full code
